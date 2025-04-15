@@ -14,5 +14,5 @@ function division(a, b) {
     return a / b
 }
 
-module.exports = {addition, subtraction, multiplication, division}
+module.exports = { addition, subtraction, multiplication, division }
 
