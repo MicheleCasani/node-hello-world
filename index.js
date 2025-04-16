@@ -9,7 +9,7 @@ console.log(division(process.argv[3], process.argv[4]))
 
 const message = process.argv[2]
 
-console.log(message)
+console.log('hello' + ' ' + message)
 
 
 
